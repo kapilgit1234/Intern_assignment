@@ -1,1 +1,1 @@
-hjsc sdcs
+print("hello world")
